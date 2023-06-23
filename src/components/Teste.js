@@ -3,7 +3,7 @@
 function Teste(){
 
     return(
-        <div>
+        <div >
             <h1>Meu primeiro componente</h1>
         </div>
     )
